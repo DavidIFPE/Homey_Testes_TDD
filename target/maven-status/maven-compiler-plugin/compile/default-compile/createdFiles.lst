@@ -1,0 +1,7 @@
+com\homey\servicos\service\BuscaService.class
+com\homey\servicos\repository\PerfilFornecedorRepository.class
+com\homey\servicos\model\PerfilFornecedor.class
+com\homey\servicos\model\Servico.class
+com\homey\servicos\repository\ServicoRepository.class
+com\homey\servicos\service\PerfilFornecedorService.class
+com\homey\servicos\Homey_Servicos.class
